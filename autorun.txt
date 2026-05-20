@@ -1,0 +1,10 @@
+
+
+
+
+
+[Desktop Entry]
+Name=Rampag Scanner
+Exec=lxterminal --title="Rampag Scanner" --geometry=100x30 -e bash -lc "cd /home/raspi_server_energy/on && python3 qg.py"
+Type=Application
+Terminal=false
