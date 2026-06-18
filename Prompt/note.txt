@@ -1,0 +1,2 @@
+- kondisi saat ini jika scan sudah berhasil maka tidak bisa lagi scan yang kedua kali nya,
+- buatkan kondisi jika scan reset berhasil maka data yang sudah berhasil di scan dan sesuai menjadi bisa kembali untuk di scan ulang dan di sesuaikan lagi scan 1 dan scan 2 nya.
