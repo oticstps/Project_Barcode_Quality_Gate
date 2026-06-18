@@ -85,8 +85,8 @@ BASE_DIR = Path(__file__).resolve().parent
 CSV_FILE = BASE_DIR / "history_scan.csv"
 
 MEDIA_DIR = BASE_DIR / "Media"
-SOUND_ALARM_PATH = MEDIA_DIR / "0003.mp3"
-SOUND_SCAN_2_TIMEOUT_PATH = MEDIA_DIR / "0017.mp3"
+SOUND_ALARM_PATH = MEDIA_DIR / "0020.wav"
+SOUND_SCAN_2_TIMEOUT_PATH = MEDIA_DIR / "0020.wav"
 
 # =========================================================
 # AUDIO MANAGEMENT
